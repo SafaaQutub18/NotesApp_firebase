@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412312921010",
+    "project_id": "noteapplication-5e4a7",
+    "storage_bucket": "noteapplication-5e4a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412312921010:android:1ea0b9fcc852e3a94d7aab",
+        "android_client_info": {
+          "package_name": "com.safaa.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412312921010-egn3gfa0tcamtrl4btuhkcfpdkr7m0o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3K9vpm3ORnsKkTgzAHylnJIy14WVzAJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412312921010-egn3gfa0tcamtrl4btuhkcfpdkr7m0o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
